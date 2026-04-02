@@ -50,3 +50,11 @@ I worked on a case study about UPI fraud and learned how such scams happen. I al
 
 This project helped me understand how important digital literacy is in our daily life. I learned how to use different online platforms, communicate professionally, and stay aware of cyber threats. I will continue to use these skills in my academic journey.
 
+
+## Links 
+
+https://docs.google.com/forms/d/1LGDW6HhSdYxt4MHJzwqUzDbD_GJ4ZrplbJsttvLlJro/edit
+
+https://www.canva.com/design/DAHFrIW-S_Q/vSbHwb8T2lf24Fa6jyICCw/edit?ui=e30&referrer=https%3A%2F%2Fwww.canva.com%2F
+
+https://www.codechef.com/users/elect_wood_77
