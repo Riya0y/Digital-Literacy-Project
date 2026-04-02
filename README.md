@@ -46,7 +46,7 @@ I wrote two professional emails — one for requesting an assignment extension a
 I worked on a case study about UPI fraud and learned how such scams happen. I also created a checklist to help students stay safe online.
 
 
-**What I Learned**
+## What I Learned
 
 This project helped me understand how important digital literacy is in our daily life. I learned how to use different online platforms, communicate professionally, and stay aware of cyber threats. I will continue to use these skills in my academic journey.
 
